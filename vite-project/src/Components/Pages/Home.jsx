@@ -8,7 +8,7 @@ import Services from '../Home/Services';
 import Pricing from '../Home/Pricing';
 import Testimonials from '../Home/Testimonials';
 import Contact from '../Home/Contact';
-import Footer from '../Home/Footer';
+// import Footer from '../Home/Footer';
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
       <Pricing />
       <Testimonials />
       <Contact />
-      <Footer /> 
+      {/* <Footer />  */}
     </>
   );
 }
