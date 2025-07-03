@@ -1,0 +1,21 @@
+/* src/styles/Testimonials.css */
+.testimonials {
+  background-color: #f1f5f9;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+.testimonials-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.testimonial-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 400px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}

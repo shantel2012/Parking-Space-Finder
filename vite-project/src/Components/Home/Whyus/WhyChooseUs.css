@@ -1,0 +1,42 @@
+
+.why-choose-us {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4rem 1rem;
+  align-items: center;
+  gap: 2rem;
+  background: #fff;
+}
+
+
+
+.why-choose-us .content {
+  flex: 1 1 300px;
+  width: 60vw;
+}
+
+.why-choose-us .gallery {
+  flex: 1 1 300px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.why-choose-us .gallery img {
+  width: 48%;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.why-choose-us .btn{
+    display: flex;
+    background-color: #feb300;
+    border-radius: 4px;
+    border-color:black;
+    font-size: 120%;
+    text-align: justify;
+    
+
+}
+
+
