@@ -7,7 +7,7 @@ import Spotdetails from"./Components/Pages/Spotdetails";
 import Dashboard from "./Components/Pages/Dash/Dashboard";
 import DownloadApp from "./Components/Pages/Download/DownloadApp";
 import Footer from "./Components/Home/Footer";
-// import AdminDashboard from "./pages/AdminDashboard";
+import AdminDashboard from "./Components/Pages/Admin/AdminDashboard";
 
 export default function App() {
   return (

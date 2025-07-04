@@ -1,6 +1,9 @@
 // src/components/WhyChooseUs.jsx
 import React from 'react';
 import './WhyChooseUs.css'
+import hyp from '../../../assets/hyp.jpeg'
+import toyota from '../../../assets/toyota.jpeg'
+import vibe from '../../../assets/vibe.jpeg'
 
 export default function WhyChooseUs() {
   return (
@@ -11,9 +14,9 @@ export default function WhyChooseUs() {
         <button className='btn'>Read More</button>
       </div>
       <div className="gallery">
-        <img src="/assets/parking1.jpg" alt="Parking" />
-        <img src="/assets/parking2.jpg" alt="Parking" />
-        <img src="/assets/parking3.jpg" alt="Parking" />
+        <img src={hyp} alt="Parking" />
+        <img src={toyota} alt="Parking" />
+        <img src={vibe} alt="Parking" />
       </div>
     </section>
   );

@@ -1,5 +1,5 @@
 .hero {
-  background: url('/assets/parking-hero.jpg') center/cover no-repeat;
+  background: url('C:\Users\tinomudaishe\Park\vite-project\src\assets\tynoe.jpeg') center/cover no-repeat;
   min-height: 90vh;
   display: flex;
   align-items: center;
@@ -28,3 +28,4 @@
 .cta-btn:hover {
   background-color: #ea580c;
 }
+
