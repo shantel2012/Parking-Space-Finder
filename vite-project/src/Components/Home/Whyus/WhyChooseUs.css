@@ -12,7 +12,14 @@
 
 .why-choose-us .content {
   flex: 1 1 300px;
-  width: 60vw;
+ 
+}
+.why-choose-us .content p{
+  flex: 1 1 300px;
+  padding: 1rem 0;
+  width: 60%;
+  font-weight: 500;
+  font-size: large;
 }
 
 .why-choose-us .gallery {
@@ -30,13 +37,20 @@
 
 .why-choose-us .btn{
     display: flex;
-    background-color: #feb300;
-    border-radius: 4px;
+    background-color: #f97316;
+    border-radius: 8px;
     border-color:black;
     font-size: 120%;
     text-align: justify;
-    
+    border: none;
+    color: rgb(12, 12, 12);
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+    font-weight: 700;
+}
 
+.why-choose-us .btn:hover{
+  background-color:#feb300;
 }
 
 

@@ -1,4 +1,4 @@
-.hero {
+ .hero {
   background: url('C:\Users\tinomudaishe\Park\vite-project\src\assets\tynoe.jpeg') center/cover no-repeat;
   min-height: 90vh;
   display: flex;
@@ -28,4 +28,88 @@
 .cta-btn:hover {
   background-color: #ea580c;
 }
+ 
 
+
+ /* .home-container {
+  font-family: sans-serif;
+} */
+
+/* .hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #0f172a;
+  color: white;
+  padding: 4rem 2rem;
+  flex-wrap: wrap; */
+
+
+  /* background: url('C:\Users\tinomudaishe\Park\vite-project\src\assets\tynoe.jpeg') center/cover no-repeat;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center; */
+/* }  */
+
+/* .hero-text {
+  max-width: 500px;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.cta-button {
+  background-color: #38bdf8;
+  color: white;
+  text-decoration: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #0ea5e9;
+}
+
+.hero-image img {
+  max-width: 400px;
+  width: 100%;
+}
+
+.features-section {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.features-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.feature-card {
+  background-color: #f1f5f9;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 300px;
+  flex: 1 1 250px;
+}
+
+.cta-section {
+  text-align: center;
+  padding: 3rem 2rem;
+  background-color: #e0f2fe;
+} */
